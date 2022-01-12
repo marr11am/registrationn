@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917905166754",
+    "project_id": "mariam-bedineishvili",
+    "storage_bucket": "mariam-bedineishvili.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917905166754:android:5f8c71ab91e678b837a2fb",
+        "android_client_info": {
+          "package_name": "com.example.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917905166754-gbnp68q5mcasnj7rsn17uuqdgiv59jb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD59Fmg1enXS3HJ5lETgQnmpkWNU1jbkik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917905166754-gbnp68q5mcasnj7rsn17uuqdgiv59jb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
